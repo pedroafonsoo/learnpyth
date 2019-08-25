@@ -36,6 +36,7 @@ print(cumprimento_especial(geek='Oi'))
 print(cumprimento_especial(geek='especial'))
 
 
+
 # Nas nossas funcoes, podemos ter (NESTA ORDEM):
 - Parametros obrigatorios:
  - *args
