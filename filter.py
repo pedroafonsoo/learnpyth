@@ -42,7 +42,7 @@ print(paises)
 # filter() -> Recebe dois parâmetros, uma função e um iterável e retorna um objeto filtrando apenas os elementos de acordo a função.
 
 """
-
+#
 # Exemplo mais complexo
 
 utilizadores = [{"username":"samuel", "tweets": ["Eu adoro bolos", "Eu adoro pizzas"]},

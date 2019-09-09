@@ -48,7 +48,7 @@ print(list(map(lambda r: math.pi * (r ** 2), raios)))
 
 # OBS: Após utilizar a função map() depois da primeira utilização do resutlado, ele zera/limpa a memória.
 """
-
+#
 # Para fixar - Map
 
 # Temos dados iteráveis:

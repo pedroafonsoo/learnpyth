@@ -14,7 +14,7 @@ zip1 = zip(lista1,lista2)
 
 print(zip1)
 print(type(zip1))
-
+#
 # Sempre podemos gerar uma lista, tupla ou dicionario
 
 print(list(zip1))

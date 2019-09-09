@@ -29,7 +29,7 @@ try:
     geek()
 except NameError:
     print('Voce esta utilizando uma funcao inexistente')
-
+#
 """
 
 # Exemplo 1 - Tratando um erro genérico

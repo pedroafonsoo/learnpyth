@@ -23,7 +23,7 @@ cores_favoritas()
 cores_favoritas(geek='navy')
 
 # Exemplo mais complexo
-
+#
 def cumprimento_especial(**kwargs):
     if 'geek' in kwargs and kwargs['geek'] == 'Python':
         return 'Você recebeu um cumprimento Pythonico Geek!'

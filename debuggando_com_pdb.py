@@ -58,7 +58,7 @@ pdb.set_trace()
 # n (próxima linha)
 # p (imprime variavél)
 # c (continua a execução - finaliza o debugging)
-
+#
 nome = 'Angelina'
 sobrenome = 'Jolie'
 import pdb; pdb.set_trace()

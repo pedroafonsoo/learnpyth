@@ -93,7 +93,7 @@ diz_oi
 diz_oi()
 """
 
-
+#
 # Exemplo 2
 
 def cantar_parabens():

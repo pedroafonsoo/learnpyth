@@ -31,7 +31,7 @@ def soma_todos_numeros(*args):
     print(soma_todos_numeros(3, 4, 5, 6))
 """
 
-
+#
 def verifica_info(*args):
     if 'Geek' in args and 'University' in args:
         return 'Bem-vindo Geek!'

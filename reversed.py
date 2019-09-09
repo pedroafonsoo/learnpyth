@@ -11,7 +11,7 @@ A sua função é inverter o iterável.
 
 A função reversed()retorna um iterável chamado List Reverse Iterator
 """
-
+#
 # Exemplos
 
 lista = [1,2,3,4,5]

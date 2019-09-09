@@ -107,7 +107,7 @@ print(diz_oi())
 
 total = 0
 
-
+#
 def incrementa():
     global total # Avisando que queremos utilizar a variável global
     total = total + 1

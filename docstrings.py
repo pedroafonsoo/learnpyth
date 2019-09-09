@@ -13,7 +13,7 @@ def diz_oi():
 
 
 
-
+#
 
 def exponencial(numero, potencia=2):
     """

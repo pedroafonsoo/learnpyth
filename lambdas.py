@@ -47,7 +47,7 @@ print(uma(1))
 print(duas(1,1))
 print(tres(3,6,9))
 # Outro exemplo
-
+#
 autores = ['Isaac Asimov', ' Ray Bradbury', 'Arthur C. Clarke']
 
 print(autores)

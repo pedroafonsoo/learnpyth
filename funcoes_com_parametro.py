@@ -36,7 +36,7 @@ def tipo_operacao(operacao, numero):
     return retorno
 
 ret = tipo_operacao('quadrado', 2)
-
+#
 def nome_completo(string1, string2):
     return f'Seu nome completo é {string1} {string2}'
 

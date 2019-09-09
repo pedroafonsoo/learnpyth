@@ -37,7 +37,7 @@ usuarios = [
     {"username": "jeff", "tweets": []},
     {"username": "gal", "tweets": [], "cor": "preto", "musica": "rock"}
 ]
-
+#
 print(usuarios)
 # print(sorted(usuarios,key=len))
 

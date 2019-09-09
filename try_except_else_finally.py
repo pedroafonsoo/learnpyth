@@ -60,7 +60,7 @@ num2 = input('Informe o segundo numero:')
 
 # Exemplo mais complexo - Semi-Genérico
 # OBS: Você é responsavel pelas entradas das suas funções. Então, trate-as!
-
+#
 def dividir(a, b):
     try:
         return int(a) / int(b)

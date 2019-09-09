@@ -32,7 +32,7 @@ for lista in listas:
 [[print(valor) for valor in lista] for lista in listas]
 
 """
-
+#
 # Outros exemplos
 
 # Gerando um tabuleiro / matriz 3*3

@@ -74,7 +74,7 @@ def outra_funcao():
 
 from random import random
 
-
+#
 def joga_moeda():
     # Gera um numero pseudo-randómico entre 0 e 1
     valor = random()

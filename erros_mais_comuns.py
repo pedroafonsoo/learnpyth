@@ -47,7 +47,7 @@ a)
  print(len(5))
 
 b) print('Geek' + [])
-
+#
 4 . IndexError -> Ocorre quando tentamos aceder a um elemento numa lista ou outro tipo de dado indexado utilizando
 um indice inválido.
 

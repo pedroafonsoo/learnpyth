@@ -30,7 +30,7 @@ def colore(texto, cor):
     print(f'O texto {texto} será impresso na cor {cor}')
 
     colore('Geek', 'preto')
-
+#
 
 OBS: O raise, assim como o return, finaliza a função. Ou seja, nada após o raise é executado.
 """

@@ -9,3 +9,4 @@ any() -> Retorna True se qualquer elemento do iteravel for verdadeiroe. Se o ite
 # Exemplo all()
 print(all([0, 1, 2, 3, 4]))  # Todos os números são verdadeiros?true
 print(all([ 1, 2, 3, 4]))  # Todos os números são verdadeiros?true
+#

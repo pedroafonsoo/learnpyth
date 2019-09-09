@@ -41,7 +41,7 @@ A função reduce(), funciona da seguinte forma:
 """
 
 # Como funciona na prática?
-
+#
 # Vamos utilizar a funçaõ reduce() para multiplicar todos os numeros de uma lista
 
 from functools import reduce
