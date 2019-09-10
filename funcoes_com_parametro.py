@@ -57,10 +57,19 @@ print(nome_completo(nome, sobrenome))
 print(nome_completo(nome='Angelina',sobrenome='Jolie'))
 """
 
+
 # Argumentos nomeados ( Keyword Arguments)
 
 # Caso utilizemos nomes dos parâmetros nos argumentos para informá-los, podemos
 # utilizar qualquer ordem.
 
 
+def soma_impares(numeros):
+    total = 0
+    for num in numeros:
+        if num % 2 != 0:
+            total = total + num
+    return total
 
+lista = [1,2,3,4,5,6,7]
+print(soma_impares(lista))
